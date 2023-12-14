@@ -1,5 +1,5 @@
 # IrisRecognition
-Implementation of Li Ma Iris Recognition algorithm
+Implementation of Li Ma Iris Recognition algorithm using the CASIA Iris Image Database (version 1.0)
 
 This repository contains 7 python files that outline the algorithm indicated in the LiMa2003.pdf paper. It also contains a notebook which is all the python files used together with some visualization throughout the process.
 
